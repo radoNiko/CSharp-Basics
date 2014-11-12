@@ -1,0 +1,3 @@
+C:\Users\isrmn\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework-September-2014\Isosceles Triangle\bin\Debug\Isosceles Triangle.exe.config
+C:\Users\isrmn\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework-September-2014\Isosceles Triangle\obj\Debug\Isosceles Triangle.exe
+C:\Users\isrmn\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework-September-2014\Isosceles Triangle\obj\Debug\Isosceles Triangle.pdb

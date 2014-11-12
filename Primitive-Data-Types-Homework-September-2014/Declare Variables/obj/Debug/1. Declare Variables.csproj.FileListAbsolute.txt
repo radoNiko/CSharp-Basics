@@ -1,0 +1,3 @@
+C:\Users\isrmn\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework-September-2014\Declare Variables\bin\Debug\Declare Variables.exe.config
+C:\Users\isrmn\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework-September-2014\Declare Variables\obj\Debug\Declare Variables.exe
+C:\Users\isrmn\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-Homework-September-2014\Declare Variables\obj\Debug\Declare Variables.pdb
